@@ -1,4 +1,4 @@
-
+https://stride-goals.vercel.app/
 
 # 🚀 Stride: The Gamified Goal Tracker
 
